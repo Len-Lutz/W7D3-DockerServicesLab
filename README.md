@@ -1,4 +1,6 @@
-# Submit: Docker Lab
+# W7D3-DockerServicesLab
+
+## Submit: Docker Lab
 
 Download the two PDFs and complete both labs
 
